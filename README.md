@@ -19,7 +19,7 @@ A simple **Python GUI tool** to extract and visualize **internal energy data** f
 ## 📦 Installation Options
 
 ### Option 1: Use Standalone EXE (Recommended for non-Python users)
-1. Download the zipped executable: `Plot_Internal_Energy_by_ids_LS-Dyna.zip`
+1. Download the zipped executable: Click here=> [`Plot_Internal_Energy_by_ids_LS-Dyna.zip`](https://drive.google.com/file/d/1zFb2f7jU6wtBwkF8fuemghOtc2tW1E9i/view?usp=sharing)
 2. Extract and double-click `Plot_Internal_Energy_by_ids_LS-Dyna.exe`
 3. Start extracting and visualizing LS-DYNA data ✅
 
